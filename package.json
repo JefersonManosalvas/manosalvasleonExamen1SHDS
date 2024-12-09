@@ -1,0 +1,11 @@
+{
+  "name": "manosalvasleonexamen1shds",
+  "version": "1.0.0",
+  "description": "examen de la primera parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manosalvas Leon Jeferson Paul",
+  "license": "ISC"
+}
